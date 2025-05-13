@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @EmiNava32
-- 👀 I’m interested in learning software development and possibly branching into something else.
-- 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I'm a currrent CS major student at a local CSU.
+- 🌱 I’m currently beginning my upper division classes.
+- ⚡ Fun fact: I have 7 cats 🐈🐈‍⬛
 
 <!---
 EmiNava32/EmiNava32 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
